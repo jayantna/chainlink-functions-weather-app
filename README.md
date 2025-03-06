@@ -1,3 +1,15 @@
+### Commands used
+```
+curl -fsSL https://deno.land/install.sh | sh  
+npx env-enc set-pw   
+npx env-enc set  
+npx env-enc view  
+npx hardhat functions-simulate-script  
+npx hardhat functions-deploy-consumer --network ethereumSepolia --verify true 
+npx hardhat functions-request --network ethereumSepolia --contract 0x8889bBd92042DeD10Cbf4fC82862BB465398F687 --subid 4380 --callbackgaslimit 300000
+```
+### Check commit [47c396dea9886cac367ad149754d3ecd531ec5fa](https://github.com/jayantna/chainlink-functions-weather-app/commit/47c396dea9886cac367ad149754d3ecd531ec5fa) for changes on starter kit
+
 # Chainlink Functions Starter Kit
 
 - [Chainlink Functions Starter Kit](#chainlink-functions-starter-kit)
