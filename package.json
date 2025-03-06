@@ -1,5 +1,5 @@
 {
-  "name": "functions-hardhat-starter-kit",
+  "name": "chainlink-functions-weather-app",
   "license": "MIT",
   "version": "0.2.1",
   "description": "Tooling for interacting with Chainlink Functions",
